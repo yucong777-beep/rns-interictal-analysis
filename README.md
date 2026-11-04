@@ -9,8 +9,9 @@ The interictal period carries intrinsic neural signatures that reflect epilepsy 
 This study requests access to de-identified RNS iEEG data from:
 - Baud et al., 2018 cohort
 - Proix et al., 2021 multi-center cohort
+- Zarei & Parvin, *Cycles in Epilepsy* dataset (`All_counts.mat`)
 
-Only secondary analysis of the de-identified data is planned.
+We will apply the same interictal analysis pipeline across these datasets to replicate and validate our hypothesis. Only secondary analysis of de-identified data will be performed.
 
 ## Planned Analysis
 1. Preprocess long-term RNS iEEG recordings
